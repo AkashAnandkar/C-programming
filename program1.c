@@ -29,7 +29,7 @@
 //Input:         unsigned int,unsigned int
 //Output:        unsigned int
 //Description:   Performs the Addition of two numbers
-//Autor:         Akash Subhash Annadkar
+//Author:         Akash Subhash Annadkar
 //Date:          18/04/2023
 //
 ///////////////////////////////////////////////////////////////////////////////
